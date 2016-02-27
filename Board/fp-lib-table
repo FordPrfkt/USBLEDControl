@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name w_conn_pc)(type KiCad)(uri "D:\\Eigene Dateien\\Dokumente\\Projekte\\KiCad\\Kicad_Lib\\Footprint\\w_conn_pc.pretty")(options "")(descr ""))
+  (lib (name w_crystal)(type KiCad)(uri "D:\\Eigene Dateien\\Dokumente\\Projekte\\KiCad\\Kicad_Lib\\Footprint\\w_crystal.pretty")(options "")(descr ""))
+  (lib (name w_to)(type KiCad)(uri "D:\\Eigene Dateien\\Dokumente\\Projekte\\KiCad\\Kicad_Lib\\Footprint\\w_to.pretty")(options "")(descr ""))
+)
